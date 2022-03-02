@@ -1,0 +1,7 @@
+# ide/python specific
+.idea/
+*.iml
+__pycache__/
+venv/
+#output folder
+output/
